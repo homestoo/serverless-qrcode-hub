@@ -9,7 +9,7 @@ kv_namespaces = [
 
 [env.dev]
 kv_namespaces = [
-    { binding = "KV_BINDING", id = "91e94fe4c85d4e21a7f9898d97587e0e" },
+    { binding = "KV_BINDING", id = "185a59eb5a574bfaa28373162b63c4bf" },
 ]
 
 [env.dev.triggers]
